@@ -1,7 +1,7 @@
 Parameter,Details
-Number of Participants,0
+Number of Participants,20
 Number of Experiments,2
-Number of Sessions,0
+Number of Sessions,20
 Signal Types,"['Right_BVP', 'EEG_recording', 'Left_BVP', 'Left_TEMP', 'Right_ACC', 'Right_EDA', 'Left_ACC', 'Right_tags', 'Left_EDA', 'Left_IBI', 'Left_HR', 'Right_IBI', 'Right_HR', 'Right_TEMP', 'tags', 'Left_tags', 'n_back_responses']"
 Sampling Frequency,"EDA 4Hz, BVP 64Hz, TEMP 4Hz, ACC 32Hz, EEG ~256Hz"
 Event Markers,"Stimulus start, task start, participant response"
