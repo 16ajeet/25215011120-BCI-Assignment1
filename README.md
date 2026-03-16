@@ -2,9 +2,17 @@
 
 # Submitted By- 
 Name - Ajeet Kumar
+
 Branch - AI
+
 Scholar Number - 25215011120
+
 Subject - BCI
+
+# Files
+1. Kaggle Notebook with visualizations
+2. Summary in csv file
+3. Readme
 
 # Brain Wearable Monitoring Dataset – Exploratory Data Analysis (EDA)
 
@@ -23,11 +31,15 @@ https://physionet.org/content/brain-wearable-monitoring/1.0.0/
 
 The main goals of this project are:
 
-* Understand the structure of the Brain Wearable Monitoring dataset.
-* Extract important dataset metadata such as participants, sessions, and signal types.
-* Perform exploratory data analysis on physiological signals.
-* Visualize signal behavior and relationships between variables.
-* Generate a structured dataset summary table.
+* no. of participants
+* sampling frequency
+* No. of experiments
+* trails, sessions
+* no. of classes
+* duration of recording
+* event markers
+
+Note:- These data alongwith some essential EDA have been shown in kaggle notebook and the csv file contains all the necessary summary generated to get complete understanding of dataset.
 
 ---
 
@@ -184,19 +196,6 @@ The analysis was performed using the following tools:
 * Matplotlib
 * Seaborn
 * Kaggle Notebook Environment
-
----
-
-# Key Outcome
-
-This project provides:
-
-* a structured overview of the Brain Wearable Monitoring dataset
-* exploratory analysis of physiological signals
-* visual insights into wearable cognitive monitoring data
-* an automatically generated dataset summary
-
-The analysis serves as a foundation for further research tasks such as **cognitive state classification, stress detection, and wearable health monitoring applications**.
 
 ---
 
