@@ -1,3 +1,11 @@
+# ================== ASSIGNMENT 1 ======================================
+
+# submitted By- 
+Name - Ajeet Kumar
+Branch - AI
+Scholar Number - 25215011120
+Subject - BCI
+
 # Brain Wearable Monitoring Dataset – Exploratory Data Analysis (EDA)
 
 ## Overview
