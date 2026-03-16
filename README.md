@@ -1,6 +1,6 @@
-# ================== ASSIGNMENT 1 ======================================
+# ============ ASSIGNMENT 1 ==============
 
-# submitted By- 
+# Submitted By- 
 Name - Ajeet Kumar
 Branch - AI
 Scholar Number - 25215011120
